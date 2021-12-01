@@ -1,6 +1,8 @@
 # Polynomial-Fitting
 A polynomial curve fit for data points.
 
+*Archived project from 2019*
+
 ## Run the code in your browser
 Click this button to run the code in your browser:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZainNaqavi/Polynomial-Fitting/main?filepath=Polynomial_Fitting.ipynb)
